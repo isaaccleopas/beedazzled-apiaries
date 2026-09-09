@@ -1,0 +1,8 @@
+{
+  "name": "beedazzled-apiaries",
+  "private": true,
+  "description": "Static website for Beedazzled Apiaries",
+  "scripts": {
+    "start": "npx --yes serve . -p 4173"
+  }
+}
